@@ -51,9 +51,8 @@ Add your Gemini API Key:
  ```bash
 .env
 GEMINI_API_KEY="YOUR_GOOGLE_GEMINI_API_KEY_HERE"
-Run the web app
  ```
+Run the web app
  ```bash
-Copy code
 streamlit run main.py
  ```
